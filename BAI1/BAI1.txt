@@ -1,0 +1,60 @@
+Test01 : 
+    Nhap phan so thu nhat:
+    Nhap tu so: 1
+    Nhap mau so: 
+    5
+    Nhap phan so thu hai:
+    Nhap tu so: 2
+    Nhap mau so: 10
+    Phan so thu nhat: 1/5
+    Phan so thu hai: 1/5
+    Tong hai phan so: 2/5
+    Hieu hai phan so: 0
+    Tich hai phan so: 1/25
+    Thuong hai phan so: 1
+    Hai phan so bang nhau.
+
+Test02 : 
+    Nhap phan so thu nhat:
+    Nhap tu so: 5   
+    Nhap mau so: 2
+    Nhap phan so thu hai:
+    Nhap tu so: 2 
+    Nhap mau so: 5
+    Phan so thu nhat: 5/2
+    Phan so thu hai: 2/5
+    Tong hai phan so: 29/10
+    Hieu hai phan so: 21/10
+    Tich hai phan so: 1
+    Thuong hai phan so: 25/4
+    Phan so thu nhat lon hon phan so thu hai.
+
+Test03 : 
+    Nhap phan so thu nhat:
+    Nhap tu so: 25 
+    Nhap mau so: 5
+    Nhap phan so thu hai:
+    Nhap tu so: 5
+    Nhap mau so: -2
+    Phan so thu nhat: 5
+    Phan so thu hai: -5/2
+    Tong hai phan so: 5/2
+    Hieu hai phan so: 15/2
+    Tich hai phan so: -25/2
+    Thuong hai phan so: -2
+    Phan so thu nhat lon hon phan so thu hai
+
+Test04 : 
+    Nhap phan so thu nhat:
+    Nhap tu so: -1
+    Nhap mau so: -10
+    Nhap phan so thu hai:
+    Nhap tu so: 1
+    Nhap mau so: 10
+    Phan so thu nhat: 1/10
+    Phan so thu hai: 1/10
+    Tong hai phan so: 1/5
+    Hieu hai phan so: 0
+    Tich hai phan so: 1/100
+    Thuong hai phan so: 1
+    Hai phan so bang nhau.
