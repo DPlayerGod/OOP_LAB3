@@ -5,8 +5,10 @@ using namespace std;
 
 int main() {
     ThoiGian tg1(0, 45, 30); // Thoi gian thu nhat la 2 gio 45 phut 30 giay
-    ThoiGian tg2(1, 20, 15); // Thoi gian thu hai la 1 gio 20 phut 15 giay
+    ThoiGian tg2;
 
+    cin >> tg2;
+    
     cout << "Thoi gian thu nhat (tg1): " << tg1 << '\n';
     cout << "Thoi gian thu hai (tg2): " << tg2 << '\n';
 

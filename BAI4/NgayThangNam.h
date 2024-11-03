@@ -7,6 +7,11 @@ private:
     int iThang;  // Thang
     int iNam;    // Nam
 
+public:
+    // Constructor mac dinh va co tham so
+    NgayThangNam();
+    NgayThangNam(int Nam, int Thang, int Ngay);
+
     // Ham kiem tra xem nam co phai nam nhuan hay khong
     bool NamNhuan(int nam) const;
 
@@ -15,11 +20,6 @@ private:
 
     // Ham chuan hoa ngay thang nam khi them / bot ngay
     void ChuanHoa();
-
-public:
-    // Constructor mac dinh va co tham so
-    NgayThangNam();
-    NgayThangNam(int Nam, int Thang, int Ngay);
 
     // Toan tu nhap / xuat
     friend istream& operator >> (istream &is, NgayThangNam &ntn);

@@ -1,0 +1,49 @@
+Test01:
+    Nhap ngay: 28
+    Nhap thang: 02
+    Nhap nam: 2000
+    Ngay thang nam thu nhat: 15/12/2023
+    Ngay thang nam thu hai: 28/2/2000
+    Ngay thang nam thu nhat + 30 ngay: 14/1/2024
+    Ngay thang nam thu nhat - 45 ngay: 31/10/2023
+    Khoang cach giua ntn1 va ntn2: 8685 ngay
+    Ngay thang nam thu nhat sau khi ++: 16/12/2023
+    Ngay thang nam thu hai sau khi --: 27/2/2000
+    Ngay thang nam thu nhat lon hon ngay thang nam thu hai.
+Test02:
+    Nhap ngay: 30
+    Nhap thang: 10
+    Nhap nam: 2024
+    Ngay thang nam thu nhat: 15/12/2023
+    Ngay thang nam thu hai: 30/10/2024
+    Ngay thang nam thu nhat + 30 ngay: 14/1/2024
+    Ngay thang nam thu nhat - 45 ngay: 31/10/2023
+    Khoang cach giua ntn1 va ntn2: 320 ngay
+    Ngay thang nam thu nhat sau khi ++: 16/12/2023
+    Ngay thang nam thu hai sau khi --: 29/10/2024
+    Ngay thang nam thu nhat nho hon ngay thang nam thu hai.
+Test03:
+    Nhap ngay: 15
+    Nhap thang: 12
+    Nhap nam: 2023
+    Ngay thang nam thu nhat: 15/12/2023
+    Ngay thang nam thu hai: 15/12/2023
+    Ngay thang nam thu nhat + 30 ngay: 14/1/2024
+    Ngay thang nam thu nhat - 45 ngay: 31/10/2023
+    Khoang cach giua ntn1 va ntn2: 0 ngay
+    Ngay thang nam thu nhat sau khi ++: 16/12/2023
+    Ngay thang nam thu hai sau khi --: 14/12/2023
+    Ngay thang nam thu nhat lon hon ngay thang nam thu hai.
+    Ngay thang nam thu nhat bang ngay thang nam thu hai.
+Test04:
+    Nhap ngay: 01
+    Nhap thang: 01
+    Nhap nam: 2024
+    Ngay thang nam thu nhat: 15/12/2023
+    Ngay thang nam thu hai: 1/1/2024
+    Ngay thang nam thu nhat + 30 ngay: 14/1/2024
+    Ngay thang nam thu nhat - 45 ngay: 31/10/2023
+    Khoang cach giua ntn1 va ntn2: 17 ngay
+    Ngay thang nam thu nhat sau khi ++: 16/12/2023
+    Ngay thang nam thu hai sau khi --: 31/12/2023
+    Ngay thang nam thu nhat nho hon ngay thang nam thu hai
