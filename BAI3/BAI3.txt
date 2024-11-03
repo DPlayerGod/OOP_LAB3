@@ -1,0 +1,50 @@
+Test01:
+    Nhap gio: 12
+    Nhap phut: 5
+    Nhap giay: 30
+    Thoi gian thu nhat (tg1): 0h:45m:30s
+    Thoi gian thu hai (tg2): 12h:5m:30s
+    Tong hai thoi gian (tg1 + tg2): 12h:51m:0s
+    Hieu hai thoi gian (tg1 - tg2): 12h:40m:0s
+    Thoi gian thu nhat nho hon thoi gian thu hai.
+    Thoi gian thu nhat sau khi ++tg1 (tien to): 0h:45m:31s
+    Thoi gian thu hai sau khi tg2++ (hau to): 12h:5m:30s
+    Thoi gian thu hai sau khi thuc hien hau to: 12h:5m:31s
+
+Test02:
+    Nhap gio: 10
+    Nhap phut: 30
+    Nhap giay: 30
+    Thoi gian thu nhat (tg1): 0h:45m:30s
+    Thoi gian thu hai (tg2): 10h:30m:30s
+    Tong hai thoi gian (tg1 + tg2): 11h:16m:0s
+    Hieu hai thoi gian (tg1 - tg2): 14h:15m:0s
+    Thoi gian thu nhat nho hon thoi gian thu hai.
+    Thoi gian thu nhat sau khi ++tg1 (tien to): 0h:45m:31s
+    Thoi gian thu hai sau khi tg2++ (hau to): 10h:30m:30s
+    Thoi gian thu hai sau khi thuc hien hau to: 10h:30m:31s
+
+Test03:
+    Nhap gio: 9 
+    Nhap phut: 9
+    Nhap giay: 9
+    Thoi gian thu nhat (tg1): 0h:45m:30s
+    Thoi gian thu hai (tg2): 9h:9m:9s
+    Tong hai thoi gian (tg1 + tg2): 9h:54m:39s
+    Hieu hai thoi gian (tg1 - tg2): 15h:36m:21s
+    Thoi gian thu nhat nho hon thoi gian thu hai.
+    Thoi gian thu nhat sau khi ++tg1 (tien to): 0h:45m:31s
+    Thoi gian thu hai sau khi tg2++ (hau to): 9h:9m:9s
+    Thoi gian thu hai sau khi thuc hien hau to: 9h:9m:10s
+Test04: 
+    Nhap gio: 10
+    Nhap phut: 59
+    Nhap giay: 59
+    Thoi gian thu nhat (tg1): 0h:45m:30s
+    Thoi gian thu hai (tg2): 10h:59m:59s
+    Tong hai thoi gian (tg1 + tg2): 11h:45m:29s
+    Hieu hai thoi gian (tg1 - tg2): 13h:45m:31s
+    Thoi gian thu nhat nho hon thoi gian thu hai.
+    Thoi gian thu nhat sau khi ++tg1 (tien to): 0h:45m:31s
+    Thoi gian thu hai sau khi tg2++ (hau to): 10h:59m:59s
+    Thoi gian thu hai sau khi thuc hien hau to: 11h:0m:0s
