@@ -1,0 +1,79 @@
+Test01:
+    Nhap so phuc thu nhat:
+    Nhap phan thuc: 1
+    Nhap phan ao: 4
+    Nhap so phuc thu hai:
+    Nhap phan thuc: 2
+    Nhap phan ao: 5
+    So phuc thu nhat: 1 + 4i
+
+    So phuc thu hai: 2 + 5i
+
+    Tong hai so phuc: 3 + 9i
+
+    Hieu hai so phuc: -1 - 1i
+
+    Tich hai so phuc: -18 + 13i
+
+    Thuong hai so phuc: 0 + 0i
+Test02:
+    Nhap so phuc thu nhat:
+    Nhap phan thuc: 2
+    Nhap phan ao: 10
+    Nhap so phuc thu hai:
+    Nhap phan thuc: 1
+    Nhap phan ao: -5
+    So phuc thu nhat: 2 + 10i
+
+    So phuc thu hai: 1 - 5i
+
+    Tong hai so phuc: 3 + 5i
+
+    Hieu hai so phuc: 1 + 15i
+
+    Tich hai so phuc: 52 + 0i
+
+    Thuong hai so phuc: -1 + 0i
+
+    Hai so phuc khong bang nhau.
+
+Test03:
+    Nhap so phuc thu nhat:
+    Nhap phan thuc: 10
+    Nhap phan ao: 5
+    Nhap so phuc thu hai:
+    Nhap phan thuc: 2
+    Nhap phan ao: -5
+    So phuc thu nhat: 10 + 5i
+
+    So phuc thu hai: 2 - 5i
+
+    Tong hai so phuc: 12 + 0i
+
+    Hieu hai so phuc: 8 + 10i
+
+    Tich hai so phuc: 45 - 40i
+
+    Thuong hai so phuc: 0 + 2i
+
+    Hai so phuc khong bang nhau.
+Test04:
+    Nhap so phuc thu nhat:
+    Nhap phan thuc: 1
+    Nhap phan ao: 5
+    Nhap so phuc thu hai:
+    Nhap phan thuc: 1
+    Nhap phan ao: 5
+    So phuc thu nhat: 1 + 5i
+
+    So phuc thu hai: 1 + 5i
+
+    Tong hai so phuc: 2 + 10i
+
+    Hieu hai so phuc: 0 + 0i
+
+    Tich hai so phuc: -24 + 10i
+
+    Thuong hai so phuc: 1 + 0i
+
+    Hai so phuc bang nhau.
